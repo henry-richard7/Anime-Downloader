@@ -1,0 +1,13 @@
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\bin\Debug\Anime Downloader.exe.config
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\bin\Debug\Anime Downloader.exe
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\bin\Debug\Anime Downloader.pdb
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime_Downloader.Form1.resources
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime_Downloader.Properties.Resources.resources
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime Downloader.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime Downloader.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime Downloader.csproj.CopyComplete
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime Downloader.exe
+C:\Users\Henry\source\repos\Anime Downloader\Anime Downloader\obj\Debug\Anime Downloader.pdb
