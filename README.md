@@ -7,7 +7,7 @@
  * [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 
 # How To Use?
- * Download and Extract Anime Downloader.
+ * Download from [Releases](https://github.com/henry-richard7/Anime-Downloader/releases) and Extract Anime Downloader.
  * Open the .exe file.
  * Enter the name of the anime you want to search and click Search Button.
  * The app shows all the results.
