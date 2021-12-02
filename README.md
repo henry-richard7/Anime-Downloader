@@ -18,6 +18,7 @@
  * The file will be download to Downloads folder
 
 # Demo
+![demo](https://github.com/henry-richard7/Anime-Downloader/raw/main/Demo/Demo.gif)
 
 # My Youtube Channel
 [![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
