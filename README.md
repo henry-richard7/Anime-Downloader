@@ -24,12 +24,3 @@
 [![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
-
-## My Telegram Channel
-[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/hr_tools)
-
-## Donations [Paypal and Crypto]
-
-If you guys liked this project you can make a small donations. The below site gives you list of ways you can donate to me.
-<br/>
-https://henry-richard7.github.io/Donation-Page/
